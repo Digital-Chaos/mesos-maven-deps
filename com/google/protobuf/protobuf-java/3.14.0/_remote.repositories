@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jun 26 18:12:50 BST 2020
-protobuf-parent-3.12.2.pom>central=
+#Sun Mar 14 22:34:27 GMT 2021
+protobuf-java-3.14.0.jar>central=
+protobuf-java-3.14.0.pom>central=
